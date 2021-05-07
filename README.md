@@ -1,4 +1,8 @@
-# vue-grid-flex-components
+## Vue Grid & Flexbox components
+
+This is a simple boilerplate project containing grid and flexbox components using CSS 3 features.
+
+Star it if you find it helpful ☺
 
 ## Project setup
 ```
